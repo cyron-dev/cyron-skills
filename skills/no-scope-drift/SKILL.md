@@ -1,9 +1,9 @@
 ---
-name: scope-drift
+name: no-scope-drift
 description: Use when planning, implementing, debugging, or reviewing work where the solution could expand beyond the user's requested outcome; triggers include "while I'm here", adjacent improvements, redesigns, extra files or systems, new product behavior, broad refactors, and discoveries that need separate approval.
 ---
 
-# Scope Drift
+# No Scope Drift
 
 ## Core rule
 

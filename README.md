@@ -9,8 +9,8 @@ This is a plain skills repository, not a Codex plugin. It does not use `plugin.j
 | Skill | Purpose |
 | --- | --- |
 | `human` | Explain or rewrite material in natural, plain language without losing facts or caveats. |
-| `regression-slop` | Prevent a bug fix or refactor from breaking behavior that already works. |
-| `scope-drift` | Keep implementation changes inside the user's authorized outcome. |
+| `no-regression-slop` | Prevent a bug fix or refactor from breaking behavior that already works. |
+| `no-scope-drift` | Keep implementation changes inside the user's authorized outcome. |
 | `no-logic-slop` | Detect contradictory states, mixed scopes, misleading labels, and invalid fallbacks. |
 | `no-progress-slop` | Report progress from verified state instead of activity or confidence. |
 | `no-business-slop` | Stop implementations from silently inventing business rules. |
@@ -41,8 +41,8 @@ For a deterministic all-skills install, the paths are:
 
 ```text
 skills/human
-skills/regression-slop
-skills/scope-drift
+skills/no-regression-slop
+skills/no-scope-drift
 skills/no-logic-slop
 skills/no-progress-slop
 skills/no-business-slop

@@ -1,9 +1,9 @@
 ---
-name: regression-slop
+name: no-regression-slop
 description: Use when fixing bugs, refactoring, changing shared state, or reviewing a patch where behavior that already works could regress; triggers include "was working before", green new tests with a broken user flow, changed defaults, widened date/state logic, and unrelated behavior altered by a fix.
 ---
 
-# Regression Slop
+# No Regression Slop
 
 ## Core rule
 
