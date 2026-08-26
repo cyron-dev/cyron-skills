@@ -1,6 +1,6 @@
 # Cyron Skills
 
-Reusable Codex skills written and maintained by [Cyron](https://github.com/cyron). They cover plain-language communication, logic and scope checks, evidence-based progress, workflow verification, and Unity review.
+Reusable Codex skills written and maintained by [Cyron](https://github.com/cyron-dev). They cover plain-language communication, logic and scope checks, evidence-based progress, workflow verification, and Unity review.
 
 This is a plain skills repository, not a Codex plugin. It does not use `plugin.json` or `agents/openai.yaml`.
 
