@@ -1,0 +1,29 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor files
+.idea/
+.vscode/
+*.swp
+*.tmp
+
+# Runtime and dependency output
+node_modules/
+__pycache__/
+*.pyc
+*.log
+coverage/
+dist/
+build/
+
+# Secrets and local configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Generated archives
+*.zip

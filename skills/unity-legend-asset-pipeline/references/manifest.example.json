@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "product": "ExampleLegendProduct",
+  "assetRoots": [
+    "Assets/Product/Portals"
+  ],
+  "assets": [
+    {
+      "id": "portal.ruined-wilderness",
+      "path": "Assets/Product/Portals/RuinedWilderness.prefab",
+      "role": "portal",
+      "provenance": "owned:art-record-0042",
+      "acceptanceId": "E0-PORTAL-RW",
+      "expectedGuid": "0123456789abcdef0123456789abcdef",
+      "expectedSha256": ""
+    }
+  ]
+}
+
